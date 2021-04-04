@@ -8,5 +8,6 @@ Un blog increíble para el curso de git y github de platzi
 * El flujo de trabajo de git.
 * El verdadero amor por las buenas prácticas.
 * Las personalidades multiples de Freddy.
+* Creado por el estupendo equipo Factory Team.
 
 Y como un amable recordatorio: **Este readme.md es una prueba del curso** Diseñado para el ejemplo. El curso tomado fue [git-github profesional](https://platzi.com/clases/git-github/ "git-github profesional") y es parte de la diversión.
